@@ -1,4 +1,4 @@
-Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Name: Paw
+Age: 31
+Favorite Color: blue
 
